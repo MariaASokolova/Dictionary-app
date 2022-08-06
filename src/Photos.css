@@ -1,7 +1,3 @@
-.Photos {
-  margin: 0 auto;
-}
-
-img {
+.Photos img {
   border-radius: 8px;
 }

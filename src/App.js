@@ -12,8 +12,9 @@ function App() {
       </div>
       <footer>
         <small>
-          Coded by Maria Sokolova and hosted on{" "}
-          <a href="https://www.netlify.com/">Netlify</a>
+          Coded by Maria Sokolova <br /> Open-sourced on{" "}
+          <a href="https://github.com/MariaASokolova/dictionary-app">GitHub</a>{" "}
+          and hosted on <a href="https://www.netlify.com/">Netlify</a>
         </small>
       </footer>
     </div>

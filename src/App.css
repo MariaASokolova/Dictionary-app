@@ -1,5 +1,11 @@
+body {
+  background: rgb(245, 215, 215, 0.2);
+}
+
 .App {
   text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .App-header {
@@ -8,6 +14,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 32px;
+  font-weight: 380;
   color: rgb(181, 27, 27);
 }
